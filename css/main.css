@@ -1,0 +1,44 @@
+h1 {
+    display: flex;
+    align-items: center;
+    background-color: #94c380;
+    color: white;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    height: 25px;
+    width: 400px;
+}
+
+
+table {
+    display: flex;
+    align-items: center;
+}
+
+td {
+    color: #fdab4a;
+}
+input {
+    border: 1rem solid #94c380;
+    border-width: 3px;
+    height: 25px;
+    width: 270px;
+    margin: 5px 3px 0 0;
+}
+
+#skill {
+    border: .20rem solid #94c380;
+    margin: 0 0 0 3px;
+    height: 25px;
+    width: 50x;
+    color:  #94c380;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.remove {
+    background-color: #de6669;
+    color: white;
+}
